@@ -1,0 +1,365 @@
+# depslib dependency file v1.0
+1747905648 source:e:\xcelll\ewu materials\cse420\minipro\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<cstdio>
+	<iostream>
+	"stb_image.h"
+	<GL/gl.h>
+	<mmsystem.h>
+	<algorithm>
+	<string>
+
+1740996990 c:\mingwnew\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	"_winsock.h"
+	<ole2.h>
+
+1740996990 c:\mingwnew\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1740996990 c:\mingwnew\include\winuser.h
+	<windef.h>
+	<wingdi.h>
+	<stdarg.h>
+	<dbt.h>
+
+1740996990 c:\mingwnew\include\windef.h
+	<w32api.h>
+	<winnt.h>
+
+1740996990 c:\mingwnew\include\w32api.h
+	<sdkddkver.h>
+
+1740996989 c:\mingwnew\include\sdkddkver.h
+
+1740996990 c:\mingwnew\include\winnt.h
+	<windef.h>
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1740996990 c:\mingwnew\include\winerror.h
+
+1740996989 c:\mingwnew\include\string.h
+	<_mingw.h>
+	<stddef.h>
+	<strings.h>
+	"strings.h"
+	"wchar.h"
+
+1740996990 c:\mingwnew\include\_mingw.h
+	<msvcrtver.h>
+	<w32api.h>
+
+1740996989 c:\mingwnew\include\msvcrtver.h
+	<_mingw.h>
+
+1740996989 c:\mingwnew\include\strings.h
+	<_mingw.h>
+	<stddef.h>
+
+1740996990 c:\mingwnew\include\wchar.h
+	<_mingw.h>
+	<wctype.h>
+	<sys/types.h>
+	"stdio.h"
+	"stdlib.h"
+	"direct.h"
+	"sys/stat.h"
+	"io.h"
+	"time.h"
+	"locale.h"
+	"process.h"
+
+1740996990 c:\mingwnew\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1740996991 c:\mingwnew\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1740996989 c:\mingwnew\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	"sys/types.h"
+	"stdarg.h"
+	<locale.h>
+
+1740996989 c:\mingwnew\include\locale.h
+	<_mingw.h>
+	<stddef.h>
+
+1740996989 c:\mingwnew\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+	<locale.h>
+
+1740996988 c:\mingwnew\include\direct.h
+	"dos.h"
+
+1740996988 c:\mingwnew\include\dos.h
+	"io.h"
+
+1740996989 c:\mingwnew\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1740996989 c:\mingwnew\include\stdint.h
+	<_mingw.h>
+	<stddef.h>
+
+1740996991 c:\mingwnew\include\sys\stat.h
+	<sys/types.h>
+
+1740996989 c:\mingwnew\include\time.h
+	<sys/types.h>
+	<_mingw.h>
+	<stddef.h>
+
+1740996989 c:\mingwnew\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1740996988 c:\mingwnew\include\basetsd.h
+
+1740996989 c:\mingwnew\include\pshpack4.h
+
+1740996989 c:\mingwnew\include\poppack.h
+
+1740996990 c:\mingwnew\include\wingdi.h
+	<windef.h>
+
+1740996988 c:\mingwnew\include\dbt.h
+	<windef.h>
+
+1740996990 c:\mingwnew\include\winver.h
+
+1740996988 c:\mingwnew\include\dde.h
+
+1740996988 c:\mingwnew\include\dlgs.h
+
+1740996988 c:\mingwnew\include\commctrl.h
+	<prsht.h>
+
+1740996989 c:\mingwnew\include\prsht.h
+
+1740996990 c:\mingwnew\include\wincon.h
+
+1740996990 c:\mingwnew\include\winbase.h
+	<stdarg.h>
+	<windef.h>
+
+1740996990 c:\mingwnew\include\winnls.h
+
+1740996990 c:\mingwnew\include\winnetwk.h
+
+1740996990 c:\mingwnew\include\winreg.h
+
+1740996990 c:\mingwnew\include\winsvc.h
+
+1740996988 c:\mingwnew\include\cderr.h
+
+1740996988 c:\mingwnew\include\ddeml.h
+
+1740996989 c:\mingwnew\include\imm.h
+
+1740996989 c:\mingwnew\include\lzexpand.h
+
+1740996989 c:\mingwnew\include\mmsystem.h
+
+1740996989 c:\mingwnew\include\nb30.h
+
+1740996989 c:\mingwnew\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1740996989 c:\mingwnew\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1740996988 c:\mingwnew\include\basetyps.h
+
+1740996989 c:\mingwnew\include\rpcdcep.h
+
+1740996989 c:\mingwnew\include\rpcnsi.h
+
+1740996989 c:\mingwnew\include\rpcnterr.h
+
+1740996988 c:\mingwnew\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1740996989 c:\mingwnew\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1740996989 c:\mingwnew\include\pshpack2.h
+
+1740996990 c:\mingwnew\include\winperf.h
+
+1740996988 c:\mingwnew\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1740996990 c:\mingwnew\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1740996989 c:\mingwnew\include\objfwd.h
+	<basetyps.h>
+
+1740996990 c:\mingwnew\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1740996989 c:\mingwnew\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1740996989 c:\mingwnew\include\rpcnsip.h
+
+1740996990 c:\mingwnew\include\winspool.h
+
+1740996990 c:\mingwnew\include\_winsock.h
+	<sdkddkver.h>
+	<winsock2.h>
+	<winsock.h>
+
+1740996990 c:\mingwnew\include\winsock2.h
+	"winsock.h"
+	"nspapi.h"
+
+1740996990 c:\mingwnew\include\winsock.h
+	<windows.h>
+	<winerror.h>
+	<sys/bsdtypes.h>
+	<sys/time.h>
+	<mswsock.h>
+
+1740996991 c:\mingwnew\include\sys\bsdtypes.h
+	<_mingw.h>
+
+1740996991 c:\mingwnew\include\sys\time.h
+	<time.h>
+
+1740996989 c:\mingwnew\include\mswsock.h
+
+1740996989 c:\mingwnew\include\nspapi.h
+	"_winsock.h"
+	"wtypes.h"
+
+1740996989 c:\mingwnew\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1740996989 c:\mingwnew\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1740996989 c:\mingwnew\include\objidl.h
+	<objfwd.h>
+
+1740996988 c:\mingwnew\include\cguid.h
+
+1740996989 c:\mingwnew\include\olectlid.h
+
+1740996989 c:\mingwnew\include\oleauto.h
+	<oaidl.h>
+
+1740996989 c:\mingwnew\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1740996989 c:\mingwnew\include\oleidl.h
+	<objfwd.h>
+
+1740996991 c:\mingwnew\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1740996991 c:\mingwnew\include\gl\gl.h
+
+1740996991 c:\mingwnew\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1746801443 e:\xcelll\ewu materials\cse420\minipro\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1740996989 c:\mingwnew\include\limits.h
+	<_mingw.h>
+
+1740996989 c:\mingwnew\include\math.h
+	<_mingw.h>
+
+1740996988 c:\mingwnew\include\assert.h
+	<_mingw.h>
+
